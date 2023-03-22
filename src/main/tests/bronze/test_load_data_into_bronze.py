@@ -58,3 +58,7 @@ def test_load_data_to_bronze():
 # COMMAND ----------
 
 test_load_data_to_bronze()
+
+# COMMAND ----------
+
+# add change to trigger github action
